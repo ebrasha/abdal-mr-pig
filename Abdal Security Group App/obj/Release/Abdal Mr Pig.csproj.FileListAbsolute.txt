@@ -1,0 +1,26 @@
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\obj\Release\Abdal_Security_Group_App.Abdal_Mr_Pig.resources
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\obj\Release\Abdal_Mr_Pig.Abdal_Mr_Pig_Connection.resources
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\obj\Release\Abdal_Mr_Pig.Properties.Resources.resources
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\obj\Release\Abdal Mr Pig.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\obj\Release\Abdal Mr Pig.exe.licenses
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Abdal Mr Pig.exe.config
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Abdal Mr Pig.exe
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\ChilkatDotNet47.dll
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\nsoftware.SecureBlackbox.dll
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Telerik.WinControls.dll
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.Office2019.dll
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.Windows8.dll
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Telerik.WinControls.UI.dll
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Telerik.Windows.Documents.Core.dll
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Telerik.Windows.Zip.dll
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\TelerikCommon.dll
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Telerik.WinControls.xml
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Telerik.WinControls.RichTextEditor.xml
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Telerik.WinControls.UI.xml
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Telerik.Windows.Documents.Core.xml
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\bin\Release\Telerik.Windows.Zip.xml
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\obj\Release\Abdal Mr Pig.csproj.CopyComplete
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\obj\Release\Abdal Mr Pig.exe
+C:\Users\Windows\source\repos\enc\Abdal Mr Pig\Abdal Security Group App\obj\Release\Abdal Mr Pig.csprojAssemblyReference.cache
